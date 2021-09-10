@@ -1,0 +1,7 @@
+G:\VisualStudio\repos\ДЗ1\ДЗ1\bin\Debug\ДЗ1.exe.config
+G:\VisualStudio\repos\ДЗ1\ДЗ1\bin\Debug\ДЗ1.exe
+G:\VisualStudio\repos\ДЗ1\ДЗ1\bin\Debug\ДЗ1.pdb
+G:\VisualStudio\repos\ДЗ1\ДЗ1\obj\Debug\ДЗ1.csproj.AssemblyReference.cache
+G:\VisualStudio\repos\ДЗ1\ДЗ1\obj\Debug\ДЗ1.csproj.CoreCompileInputs.cache
+G:\VisualStudio\repos\ДЗ1\ДЗ1\obj\Debug\ДЗ1.exe
+G:\VisualStudio\repos\ДЗ1\ДЗ1\obj\Debug\ДЗ1.pdb
